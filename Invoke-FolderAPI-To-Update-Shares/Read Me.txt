@@ -1,4 +1,4 @@
-1. Run Extract Folder list
+1. Run "Extract Folder list.py"
 	create - data\01 SF Folder Lists.csv
 
 2. Extract User Roles using Data Loader
@@ -9,6 +9,8 @@
 	This will contain Folder names where User/Role needs to be added.
 	If user/role already exists, service call will fail.
 	Therefore, user/role must not exist on the folder's share details.
+
+4. Run "01 Replace Roles in Folders.py"
 
 
  
