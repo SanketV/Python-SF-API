@@ -2,6 +2,7 @@ import csv
 import pprint as pp
 from SF_API import SalesforceAPIBangBang
 
+
 class Folder:
     id = ''
     label = ''
@@ -9,7 +10,8 @@ class Folder:
     type = ''
     url = ''
     folderSharesUrl = ''
-      
+
+
 salesforceAPI = SalesforceAPIBangBang()
 foldersJSON = salesforceAPI.sf_api_call(action='/services/data/v46.0/folders?page=1&pageSize=300')
 
@@ -32,8 +34,9 @@ for f in folders:
     
     foldersList.append(fld)
 
-print("\n\n ♠ Folders List : \n")
-   
+print("\n\n ♠ Total found - " + str(counter) + "\n ♠ Folders List : \n")
+
+
 def make_csv(foldersList):
     with open('data\\01 SF Folder Lists.csv', 'w', newline = '') as csvfile:
         writer = csv.writer(csvfile, delimiter=",")
@@ -42,12 +45,13 @@ def make_csv(foldersList):
                          'FolderType'
                          ])
         
-        for fld in foldersList:
-            writer.writerow([fld.label, 
-                             fld.id,
-                             fld.type
+        for folder in foldersList:
+            writer.writerow([folder.label,
+                             folder.id,
+                             folder.type
                              ])
-            print('• ' + fld.label )
-                
+            print('• ' + folder.label + ' - ' + folder.type)
+
+
 make_csv(foldersList)
 

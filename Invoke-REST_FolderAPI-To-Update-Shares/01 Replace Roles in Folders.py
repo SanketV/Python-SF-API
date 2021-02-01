@@ -32,7 +32,7 @@ def invokeSFFolderSharesAPI(folderId, shareList):
 
 
 inputData = pd.read_csv(".\\data\\Input-FolderName and New Roles.csv")
-#pp.pprint(inputData)
+pp.pprint(inputData)
 
 for key, group_df in inputData.groupby('FolderName'):
     print("the group for folderName '{}' has {} rows".format(key,len(group_df)))
