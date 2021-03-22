@@ -1,0 +1,15 @@
+FolderName,FolderType,Url,FolderSharesUrl,SharedWith,ShareType,AccessType
+Release Manager Dashboard Reports,report,/services/data/v46.0/folders/00l0H0000019qXBQAY,/services/data/v46.0/folders/00l0H0000019qXBQAY/shares,Sanket Vaidya,user,manage
+Release Manager Reports,report,/services/data/v46.0/folders/00l0H0000019qXCQAY,/services/data/v46.0/folders/00l0H0000019qXCQAY/shares,Sanket Vaidya,user,manage
+Release Manager Dashboards,dashboard,/services/data/v46.0/folders/00l0H0000019qXDQAY,/services/data/v46.0/folders/00l0H0000019qXDQAY/shares,Sanket Vaidya,user,manage
+Change Requests,report,/services/data/v46.0/folders/00l0H000001uZfyQAE,/services/data/v46.0/folders/00l0H000001uZfyQAE/shares,Sanket Vaidya,user,manage
+Change Dashboards,dashboard,/services/data/v46.0/folders/00l0H000001uZfzQAE,/services/data/v46.0/folders/00l0H000001uZfzQAE/shares,Sanket Vaidya,user,manage
+SMS Reports,report,/services/data/v46.0/folders/00l0H000002895jQAA,/services/data/v46.0/folders/00l0H000002895jQAA/shares,Sanket Vaidya,user,manage
+SMS Reports,report,/services/data/v46.0/folders/00l0H000002895jQAA,/services/data/v46.0/folders/00l0H000002895jQAA/shares,Chief Technical Officer BangBang,role,manage
+Simple SMS Reports,report,/services/data/v46.0/folders/00l0H000002896NQAQ,/services/data/v46.0/folders/00l0H000002896NQAQ/shares,Sanket Vaidya,user,manage
+Simple SMS Reports,report,/services/data/v46.0/folders/00l0H000002896NQAQ,/services/data/v46.0/folders/00l0H000002896NQAQ/shares,Chief Technical Officer BangBang,role,view
+Simple SMS Dashboard,dashboard,/services/data/v46.0/folders/00l0H000002896OQAQ,/services/data/v46.0/folders/00l0H000002896OQAQ/shares,Sanket Vaidya,user,manage
+DaRecruitingBiz Reports,report,/services/data/v46.0/folders/00li0000001O32OAAS,/services/data/v46.0/folders/00li0000001O32OAAS/shares,Sanket Vaidya,user,manage
+DaRecruitingBiz Reports,report,/services/data/v46.0/folders/00li0000001O32OAAS,/services/data/v46.0/folders/00li0000001O32OAAS/shares,Chief Technical Officer BangBang,role,manage
+DaRecruitingBiz Reports,report,/services/data/v46.0/folders/00li0000001O32OAAS,/services/data/v46.0/folders/00li0000001O32OAAS/shares,Western Sales Team,role,view
+DaRecruitingBiz Reports,report,/services/data/v46.0/folders/00li0000001O32OAAS,/services/data/v46.0/folders/00li0000001O32OAAS/shares,CEO,roleandsubordinates,view
