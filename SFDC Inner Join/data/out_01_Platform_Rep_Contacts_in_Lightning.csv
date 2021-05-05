@@ -1,0 +1,30 @@
+,Migration_Key__c,1_NAME_From_Classic,REP_TYPE__C,RecordTypeId,RecordType Name,Type__c,Position__c,ID,NAME,ROLE__C,RECORDTYPE.NAME,RECORDTYPEID
+0,0035000000d6s35AAA,Danny Mizer,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7vNKQAY,Danny C Mizer,,Advisor,0122E000000ttnXQAQ
+1,0035000000ax8YoAAI,Holly Gonter,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7f1QQAQ,Holly J Gonter,,Advisor,0122E000000ttnXQAQ
+2,0035000000ZvaeZAAR,Tiffany Smithers,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7qfrQAA,Tiffany M Smithers,,Advisor,0122E000000ttnXQAQ
+3,00350000022g2QYAAY,Brian Gershman,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7wxBQAQ,Brian Gershman,,Advisor,0122E000000ttnXQAQ
+4,0035000000ZvnsrAAB,Trevor Hanson,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z81EyQAI,Trevor Bruce Hanson,,Advisor,0122E000000ttnXQAQ
+5,0035000001cIvSgAAK,Jacob Butler,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7oSCQAY,Jacob Edwin Butler,,Advisor,0122E000000ttnXQAQ
+6,0035000001cIvShAAK,Melissa Warren,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7shCQAQ,Melissa Jo Warren,,Advisor,0122E000000ttnXQAQ
+7,0035000001YQawkAAD,Jodi Sherman Schultz,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z8EUhQAM,Jodi Sherman Schultz,,Advisor,0122E000000ttnXQAQ
+8,0035000002f8JHjAAM,John Fuhrer,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z8FD8QAM,John Thomas Fuhrer,,Advisor,0122E000000ttnXQAQ
+9,0035000001YRDKkAAP,Meshan Smith,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z82ryQAA,Meshan Smith,,Advisor,0122E000000ttnXQAQ
+10,0035000001cHJDIAA4,Jennifer Degraaff,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z8Ea0QAE,Jennifer Marie Degraaff,,Advisor,0122E000000ttnXQAQ
+11,0035000001YRtD1AAL,Gina Bert Zatto,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z86NsQAI,Gina Marie Bert Zatto,,Advisor,0122E000000ttnXQAQ
+12,0035000002f8JHyAAM,Christopher Covarrubias,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z81pvQAA,Christopher Covarrubias,,Advisor,0122E000000ttnXQAQ
+13,0035000001YQgsiAAD,Ting Su,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z86UYQAY,Ting Su,,Advisor,0122E000000ttnXQAQ
+14,0035000001cH7mPAAS,James Winiarski,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7z5QQAQ,James Winiarski,,Advisor,0122E000000ttnXQAQ
+15,0035000001cGzM9AAK,Charles Stoffel,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7smlQAA,Charles Stoffel,,Advisor,0122E000000ttnXQAQ
+16,0035000001YQFkMAAX,Jason Mcgrew,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z8EUnQAM,Jason Todd Mcgrew,,Advisor,0122E000000ttnXQAQ
+17,0035000001cFhpwAAC,Shari Rahmlow,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7oKpQAI,Shari J Rahmlow,,Advisor,0122E000000ttnXQAQ
+18,0035000002KP6CtAAL,Robert Magnesen,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z82eNQAQ,Robert T Magnesen,,Advisor,0122E000000ttnXQAQ
+19,0035000001cH7mGAAS,Charlotte Kreag,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7z5PQAQ,Charlotte Ann Kreag,,Advisor,0122E000000ttnXQAQ
+20,0035000002g6HvpAAE,Kevin Brake,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z82kOQAQ,Kevin James Brake,,Advisor,0122E000000ttnXQAQ
+21,0035000001N9BeZAAV,Mary Asher,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7z2qQAA,Mary Ruth Asher,,Advisor,0122E000000ttnXQAQ
+22,0035000001N8I0YAAV,Carrie Miller,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z84KaQAI,Carrie Lyn Miller,,Advisor,0122E000000ttnXQAQ
+23,0035000001N6v4KAAR,Antonio Gonzalez,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7tsHQAQ,Antonio R Gonzalez,,Advisor,0122E000000ttnXQAQ
+24,0035000001N7032AAB,Melissa Morehouse,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7tsvQAA,Melissa Coleman Morehouse,,Advisor,0122E000000ttnXQAQ
+25,0035000001TrVBJAA3,Maisha Jackson,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7uhWQAQ,Maisha Latrice Jackson,,Advisor,0122E000000ttnXQAQ
+26,0035000001N9Bf9AAF,Thomas Huntley,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7z2vQAA,Thomas Bradley Huntley,,Advisor,0122E000000ttnXQAQ
+27,0035000001N9BeBAAV,Sabine Mitchell,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z7xNcQAI,Sabine Helene Mitchell,,Advisor,0122E000000ttnXQAQ
+28,0035000001N9BeEAAV,Bibi Asgaralli,Platform Rep,0122C0000004x9YQAQ,Non-Advisor,Banks Platform Rep,Banker,0032E00002z80kkQAA,Bibi Asgaralli,,Advisor,0122E000000ttnXQAQ
